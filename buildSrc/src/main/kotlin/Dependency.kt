@@ -23,7 +23,7 @@ object JetBrains {
 object OkHttp {
     private const val RETROFIT_VERSION = "2.9.0"
 
-    const val OKHTTP3 = "com.squareup.okhttp3:okhttp:$RETROFIT_VERSION"
+    const val OKHTTP3 = "com.squareup.okhttp3:okhttp:$4.10.0"
     const val RETROFIT2 = "com.squareup.retrofit2:retrofit:$RETROFIT_VERSION"
     const val CONVERTER_GSON = "com.squareup.retrofit2:converter-gson:$RETROFIT_VERSION"
     const val CONVERTER_SCALARS = "com.squareup.retrofit2:converter-scalars:$RETROFIT_VERSION"
